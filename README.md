@@ -15,9 +15,10 @@
 * 2.请保证您的场景中存在一个名为"Canvas"的画布,且panel在该画布中制作并调整,最后成为预制体
 * 3.若UIManager中已经指定了该场景中的Panel类型,调用OpenPanel时会在控制台提示"无法打开场景",关闭或隐藏场景同理
 * 4.请不要将UIFrameWorkExample中的框架进行提取,因为那个不全面,有些地方存在问题,代码写的也不是很好.
-* 5.由于UIFrameWorkExample较大,我将以unitypackage的形式存储在百度云网盘中,需要参考的可以通过百度网盘下载以后导入自己的工程中.
-* 6.百度网盘链接：https://pan.baidu.com/s/1cNxRcdLin4G3wzR8QEwNrg 密码：iq9l
-* 7.如果百度网盘链接失效,请及时联系我,我会更新他.QQ:1976763043,邮箱:1976763043@qq.com
+* 5.UIFrameWorkExample是使用Unity2017版本制作，请大家使用相近版本打开
+* 6.鉴于版本不同,我将UIFrameWorkExample工程以unitypackage的形式存储在百度云网盘中,需要参考的可以通过百度网盘下载以后导入自己的工程中.
+* 7.百度网盘链接 https://pan.baidu.com/s/1cNxRcdLin4G3wzR8QEwNrg 密码：iq9l
+* 8.如果百度网盘链接失效,请及时联系我,我会更新他.QQ:1976763043,邮箱:1976763043@qq.com
 
 UIFrameWorkExample截图
 ![](https://i.imgur.com/ZwV1SyK.jpg)

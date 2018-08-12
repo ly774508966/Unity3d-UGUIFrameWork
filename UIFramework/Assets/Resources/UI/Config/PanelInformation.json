@@ -1,0 +1,45 @@
+[
+  {
+
+    "PanelName": "ItemMessagePanel",
+    "PanelPath": "UI/Panel/ItemMessagePanel",
+    "UIPanelType": 0
+  },
+  {
+
+    "PanelName": "KnapsackPanel",
+    "PanelPath": "UI/Panel/KnapsackPanel",
+    "UIPanelType": 1
+  },
+  {
+
+    "PanelName": "MainMenuPanel",
+    "PanelPath": "UI/Panel/MainMenuPanel",
+    "UIPanelType": 2
+  },
+  {
+
+    "PanelName": "ShopPanel",
+    "PanelPath": "UI/Panel/ShopPanel",
+    "UIPanelType": 3
+  },
+  {
+
+    "PanelName": "SkillPanel",
+    "PanelPath": "UI/Panel/SkillPanel",
+    "UIPanelType": 4
+  },
+  {
+
+    "PanelName": "SystemPanel",
+    "PanelPath": "UI/Panel/SystemPanel",
+    "UIPanelType": 5
+  },
+  {
+
+    "PanelName": "TaskPanel",
+    "PanelPath": "UI/Panel/TaskPanel",
+    "UIPanelType": 6
+  }
+
+]
